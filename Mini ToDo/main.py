@@ -1,5 +1,4 @@
 import flet as ft
-from flet import theme
 
 class Task(ft.UserControl):
     def __init__(self, input_text, remove_task):
